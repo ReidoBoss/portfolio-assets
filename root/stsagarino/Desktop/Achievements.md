@@ -18,4 +18,4 @@
 - Represented the university in a **regional-level hackathon**.
 - Built an **AI-driven emergency response system** with real-time communication & ML-based classification.
 
-![AI Emergency Response System](https://raw.githubusercontent.com/ReidoBoss/portfolio-assets/708ea55bdcba63a12307585b6c913a03421d9e50/images/swift-aid.jpg)
+![AI Emergency Response System](https://raw.githubusercontent.com/ReidoBoss/portfolio-assets/refs/heads/main/images/swift-aid.jpg)

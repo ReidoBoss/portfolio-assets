@@ -27,6 +27,15 @@ And when I’m not coding, you’ll probably find me:
 
 ---
 
+## 🎓 Education
+
+**University of Cebu (2020–2024)**
+
+- **BS in Computer Science**
+- Coursework: Artificial Intelligence, Data Structures & Algorithms, OOP, Software Engineering, Embedded Systems, IoT
+
+---
+
 ## 💼 Experience
 
 ### **Software Engineer & iOS Developer — Vauldex Technologies** (2024–Present)
